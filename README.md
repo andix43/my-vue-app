@@ -1,5 +1,6 @@
-# Vue 3 + Vite
+# Vue 3 + Vite Dynamic Table Project
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Pagination. The vue app allow displaying 10, 20, and 50 items per page for the dynamic table.
+Sorting. The Vue app allow sorting on the columns.
+Filtering. The Vue app allow filtering on the numeric values, e.g. greater than or less than a particular value.
+Searching. The Vue app allow for searching a specific ID.
